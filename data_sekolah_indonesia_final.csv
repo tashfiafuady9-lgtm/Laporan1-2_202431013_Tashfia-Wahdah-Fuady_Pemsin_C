@@ -1,0 +1,482 @@
+﻿Provinsi,Kabupaten_Kota,SD_Negeri,SD_Swasta,Jumlah_SD,SMP_Negeri,SMP_Swasta,Jumlah_SMP,SMA_Negeri,SMA_Swasta,Jumlah_SMA,SMK_Negeri,SMK_Swasta,Jumlah_SMK,Total_Seluruh_Sekolah
+Tidak diketahui,Kab. Aceh Besar,247,15,262,60,48,108,34,34,68,8,3,11,449
+Tidak diketahui,Kab. Pidie,325,14,339,65,35,100,32,19,51,7,7,14,504
+Tidak diketahui,Kab. Aceh Utara,395,17,412,107,85,192,43,39,82,14,10,24,710
+Tidak diketahui,Kab. Aceh Timur,317,18,335,82,30,112,32,16,48,14,1,15,510
+Tidak diketahui,Kab. Aceh Tengah,207,19,226,50,21,71,21,15,36,4,1,5,338
+Tidak diketahui,Kab. Aceh Barat,174,14,188,52,19,71,20,9,29,10,1,11,299
+Tidak diketahui,Kab. Aceh Selatan,228,11,239,56,26,82,32,14,46,10,1,11,378
+Tidak diketahui,Kab. Aceh Tenggara,155,47,202,40,52,92,23,22,45,6,10,16,355
+Tidak diketahui,Kab. Simeulue,119,9,128,45,12,57,26,5,31,8,0,8,224
+Tidak diketahui,Kab. Bireuen,283,8,291,73,47,120,31,25,56,8,4,12,479
+Tidak diketahui,Kab. Aceh Singkil,107,11,118,31,15,46,12,7,19,5,2,7,190
+Tidak diketahui,Kab. Aceh Tamiang,169,22,191,51,29,80,22,20,42,5,4,9,322
+Tidak diketahui,Kab. Nagan Raya,146,9,155,36,13,49,18,3,21,2,3,5,230
+Tidak diketahui,Kab. Aceh Jaya,112,6,118,36,8,44,12,8,20,6,1,7,189
+Tidak diketahui,Kab. Aceh Barat Daya,122,6,128,28,9,37,14,5,19,5,0,5,189
+Tidak diketahui,Kab. Gayo Lues,88,11,99,30,17,47,13,4,17,2,0,2,165
+Tidak diketahui,Kab. Bener Meriah,143,8,151,45,27,72,18,15,33,5,1,6,262
+Tidak diketahui,Kab. Pidie Jaya,113,5,118,29,16,45,14,10,24,4,3,7,194
+Tidak diketahui,Kota Sabang,27,3,30,9,2,11,3,1,4,1,0,1,46
+Tidak diketahui,Kota Banda Aceh,83,18,101,23,21,44,19,20,39,6,4,10,194
+Tidak diketahui,Kota Lhokseumawe,63,15,78,20,28,48,9,12,21,8,5,13,160
+Tidak diketahui,Kota Langsa,63,13,76,15,15,30,7,11,18,6,4,10,134
+Tidak diketahui,Kota Subulussalam,80,8,88,17,20,37,9,12,21,5,0,5,151
+Tidak diketahui,Kab. Deli Serdang,585,478,1063,66,367,433,23,152,175,11,120,131,1802
+Tidak diketahui,Kab. Langkat,596,177,773,66,218,284,21,97,118,3,69,72,1247
+Tidak diketahui,Kab. Karo,256,48,304,39,31,70,14,13,27,4,9,13,414
+Tidak diketahui,Kab. Simalungun,778,97,875,65,162,227,21,57,78,6,38,44,1224
+Tidak diketahui,Kab. Dairi,257,20,277,38,27,65,14,13,27,6,11,17,386
+Tidak diketahui,Kab. Asahan,394,130,524,61,136,197,18,69,87,10,31,41,849
+Tidak diketahui,Kab. Labuhan Batu,246,78,324,36,95,131,16,45,61,7,26,33,549
+Tidak diketahui,Kab. Tapanuli Utara,378,12,390,72,11,83,19,9,28,10,14,24,525
+Tidak diketahui,Kab. Tapanuli Tengah,299,38,337,59,45,104,18,17,35,9,12,21,497
+Tidak diketahui,Kab. Tapanuli Selatan,274,19,293,51,25,76,11,19,30,11,4,15,414
+Tidak diketahui,Kab. Nias,162,1,163,45,6,51,8,2,10,14,2,16,240
+Tidak diketahui,Kab. Mandailing Natal,393,16,409,83,42,125,26,28,54,11,10,21,609
+Tidak diketahui,Kab. Toba Samosir,211,15,226,45,6,51,12,3,15,8,14,22,314
+Tidak diketahui,Kab. Nias Selatan,352,6,358,114,22,136,48,19,67,34,14,48,609
+Tidak diketahui,Kab. Pakpak Bharat,60,9,69,27,3,30,5,1,6,4,0,4,109
+Tidak diketahui,Kab. Humbang Hasudutan,217,5,222,41,7,48,13,3,16,9,4,13,299
+Tidak diketahui,Kab. Samosir,187,7,194,25,9,34,8,6,14,4,3,7,249
+Tidak diketahui,Kab. Serdang Bedagai,429,81,510,40,111,151,19,48,67,10,29,39,767
+Tidak diketahui,Kab. Batubara,233,58,291,31,68,99,8,30,38,7,15,22,450
+Tidak diketahui,Kab. Padang Lawas Utara,217,27,244,41,48,89,10,38,48,3,5,8,389
+Tidak diketahui,Kab. Padang Lawas,188,14,202,36,39,75,11,22,33,6,11,17,327
+Tidak diketahui,Kab. Labuhan Batu Utara,256,63,319,30,67,97,11,24,35,3,16,19,470
+Tidak diketahui,Kab. Labuhan Batu Selatan,182,34,216,30,65,95,11,36,47,2,21,23,381
+Tidak diketahui,Kab. Nias Barat,106,0,106,37,3,40,13,4,17,12,1,13,176
+Tidak diketahui,Kab. Nias Utara,163,5,168,49,8,57,13,3,16,20,4,24,265
+Tidak diketahui,Kota Medan,393,548,941,48,428,476,24,222,246,14,155,169,1832
+Tidak diketahui,Kota Binjai,124,49,173,17,47,64,8,28,36,2,22,24,297
+Tidak diketahui,Kota Tebing Tinggi,78,32,110,11,21,32,5,16,21,4,13,17,180
+Tidak diketahui,Kota Pematangsiantar,117,57,174,14,37,51,7,29,36,3,34,37,298
+Tidak diketahui,Kota Tanjung Balai,71,31,102,15,18,33,8,11,19,6,3,9,163
+Tidak diketahui,Kota Sibolga,38,12,50,9,11,20,5,7,12,3,5,8,90
+Tidak diketahui,Kota Padang Sidimpuan,86,16,102,13,29,42,10,18,28,4,13,17,189
+Tidak diketahui,Kota Gunungsitoli,100,15,115,27,13,40,7,10,17,8,6,14,186
+Tidak diketahui,Kab. Agam,443,15,458,70,50,120,26,31,57,10,4,14,649
+Tidak diketahui,Kab. Pasaman,246,11,257,43,10,53,15,13,28,6,3,9,347
+Tidak diketahui,Kab. Lima Puluh Kota,364,14,378,54,28,82,17,10,27,6,1,7,494
+Tidak diketahui,Kab. Solok,345,20,365,74,32,106,22,16,38,9,4,13,522
+Tidak diketahui,Kab. Padang Pariaman,406,11,417,68,20,88,23,14,37,5,11,16,558
+Tidak diketahui,Kab. Pesisir Selatan,397,18,415,87,19,106,27,12,39,8,8,16,576
+Tidak diketahui,Kab. Tanah Datar,302,9,311,66,38,104,19,26,45,5,3,8,468
+Tidak diketahui,Kab. Sijunjung,203,8,211,54,10,64,15,3,18,7,3,10,303
+Tidak diketahui,Kab. Kepulauan  Mentawai,110,8,118,26,8,34,11,3,14,3,0,3,169
+Tidak diketahui,Kab. Solok Selatan,148,14,162,42,13,55,13,6,19,5,1,6,242
+Tidak diketahui,Kab. Dharmasraya,148,16,164,35,19,54,15,14,29,7,0,7,254
+Tidak diketahui,Kab. Pasaman Barat,254,24,278,59,66,125,18,32,50,9,9,18,471
+Tidak diketahui,Kota Bukittinggi,47,15,62,10,11,21,7,11,18,2,11,13,114
+Tidak diketahui,Kota Padang,348,72,420,50,67,117,20,47,67,14,28,42,646
+Tidak diketahui,Kota Padang Panjang,32,8,40,7,13,20,7,9,16,2,2,4,80
+Tidak diketahui,Kota Sawah Lunto,58,6,64,11,3,14,4,2,6,2,1,3,87
+Tidak diketahui,Kota Solok,42,6,48,7,2,9,5,2,7,3,2,5,69
+Tidak diketahui,Kota Payakumbuh,67,14,81,12,12,24,8,8,16,4,5,9,130
+Tidak diketahui,Kota Pariaman,74,7,81,12,9,21,7,3,10,4,5,9,121
+Tidak diketahui,Kab. Kampar,453,69,522,110,108,218,45,54,99,11,18,29,868
+Tidak diketahui,Kab. Bengkalis,309,59,368,82,72,154,36,42,78,15,12,27,627
+Tidak diketahui,Kab. Indragiri Hulu,286,37,323,64,35,99,23,23,46,11,5,16,484
+Tidak diketahui,Kab. Indragiri Hilir,471,242,713,110,169,279,26,73,99,8,11,19,111
+Tidak diketahui,Kab. Pelalawan,199,33,232,55,39,94,19,12,31,8,9,17,374
+Tidak diketahui,Kab. Rokan Hulu,325,62,387,108,65,173,30,28,58,21,17,38,656
+Tidak diketahui,Kab. Rokan Hilir,299,139,438,73,129,202,38,58,96,6,20,26,762
+Tidak diketahui,Kab. Siak,206,44,250,82,62,144,33,24,57,12,14,26,477
+Tidak diketahui,Kab. Kuantan Singingi,237,37,274,75,27,102,23,9,32,12,1,13,421
+Tidak diketahui,Kab. Kepulauan Meranti,161,28,189,41,41,82,16,22,38,2,5,7,316
+Tidak diketahui,Kota Pekanbaru,177,133,330,52,112,170,20,56,76,10,52,62,638
+Tidak diketahui,Kota Dumai,88,26,114,25,33,57,8,17,25,7,10,17,213
+Tidak diketahui,Kab. Batang Hari,208,17,225,54,37,91,16,18,34,8,2,10,360
+Tidak diketahui,Kab. Bungo,229,27,256,63,35,98,22,20,42,13,7,20,416
+Tidak diketahui,Kab. Sarolangun,233,24,257,62,58,120,16,27,43,14,9,23,443
+Tidak diketahui,Kab. Tanjung Jabung Barat,203,41,244,61,52,113,21,28,49,9,2,11,417
+Tidak diketahui,Kab. Kerinci,231,40,271,59,15,74,17,8,25,7,1,8,378
+Tidak diketahui,Kab. Tebo,242,46,288,66,46,112,21,21,42,8,12,20,462
+Tidak diketahui,Kab. Muaro Jambi,248,30,278,74,43,117,20,23,43,11,6,17,455
+Tidak diketahui,Kab. Tanjung Jabung Timur,205,24,229,49,28,77,12,23,35,6,1,7,348
+Tidak diketahui,Kab. Merangin,318,28,346,88,42,130,23,25,48,14,5,19,543
+Tidak diketahui,Kota Jambi,188,77,265,31,77,108,16,47,63,6,30,36,472
+Tidak diketahui,Kota Sungai Penuh,68,15,83,15,3,18,7,4,11,5,0,5,117
+Tidak diketahui,Kab. Musi Banyuasin,434,60,494,105,88,193,37,38,75,16,8,24,786
+Tidak diketahui,Kab. Ogan Komering Ilir,456,72,528,105,95,200,29,44,73,13,15,28,829
+Tidak diketahui,Kab. Ogan Komering Ulu,189,35,224,53,24,77,18,20,38,4,9,13,352
+Tidak diketahui,Kab. Muara Enim,372,49,421,81,56,137,21,24,45,11,9,20,623
+Tidak diketahui,Kab. Lahat,286,33,319,65,22,87,31,14,45,8,4,12,463
+Tidak diketahui,Kab. Musi Rawas,307,27,334,55,43,98,22,16,38,4,3,7,477
+Tidak diketahui,Kab. Banyuasin,485,73,558,74,111,185,30,60,90,10,8,18,851
+Tidak diketahui,Kab. Ogan Komering Ulu Timur,421,100,521,55,89,144,21,52,73,9,28,37,775
+Tidak diketahui,Kab. Ogan Komering Ulu Selatan,249,48,297,63,30,93,23,13,36,3,6,9,435
+Tidak diketahui,Kab. Ogan Ilir,250,29,279,67,53,120,23,29,52,10,6,16,467
+Tidak diketahui,Kab. Empat Lawang,176,16,192,37,5,42,15,3,18,3,1,4,256
+Tidak diketahui,Kab. Penukal Abab Lematang Ilir,113,14,127,31,20,51,16,11,27,5,4,9,214
+Tidak diketahui,Kab. Musi Rawas Utara,123,18,141,24,20,44,7,11,18,1,0,1,204
+Tidak diketahui,Kota Palembang,250,212,462,63,179,242,27,113,140,9,71,80,924
+Tidak diketahui,Kota Prabumulih,86,14,100,13,16,29,9,8,17,2,9,11,157
+Tidak diketahui,Kota Lubuk Linggau,86,29,115,16,24,40,11,21,32,4,4,8,195
+Tidak diketahui,Kota Pagar Alam,76,26,102,11,16,27,6,7,13,2,4,6,148
+Tidak diketahui,Kab. Bengkulu Utara,229,23,252,71,10,81,17,8,25,12,1,13,371
+Tidak diketahui,Kab. Rejang Lebong,175,24,199,46,16,62,15,7,22,7,7,14,297
+Tidak diketahui,Kab. Bengkulu Selatan,120,11,131,33,5,38,11,9,20,5,3,8,197
+Tidak diketahui,Kab. Muko-muko,132,19,151,52,14,66,18,6,24,6,5,11,252
+Tidak diketahui,Kab. Kepahiang,97,11,108,29,7,36,9,3,12,6,0,6,162
+Tidak diketahui,Kab. Lebong,90,9,99,25,4,29,8,2,10,4,2,6,144
+Tidak diketahui,Kab. Kaur,133,11,144,41,6,47,12,3,15,8,4,12,218
+Tidak diketahui,Kab. Seluma,187,16,203,51,6,57,11,4,15,6,0,6,281
+Tidak diketahui,Kab. Bengkulu Tengah,98,11,109,34,8,42,8,7,15,3,2,5,171
+Tidak diketahui,Kota Bengkulu,83,35,118,27,23,50,14,21,35,7,17,24,227
+Tidak diketahui,Kab. Bangka,169,20,189,34,27,61,11,14,25,5,6,11,286
+Tidak diketahui,Kab. Belitung,116,6,122,22,10,32,5,4,9,5,2,7,170
+Tidak diketahui,Kab. Bangka Tengah,91,10,101,21,9,30,8,4,12,5,0,5,148
+Tidak diketahui,Kab. Bangka Barat,128,10,138,30,16,46,7,7,14,5,4,9,207
+Tidak diketahui,Kab. Bangka Selatan,91,7,98,30,8,38,8,7,15,6,1,7,158
+Tidak diketahui,Kab. Belitung Timur,105,1,106,22,3,25,5,3,8,4,4,8,147
+Tidak diketahui,Kota Pangkalpinang,68,23,91,11,16,27,5,8,13,5,4,9,140
+Tidak diketahui,Kab. Bintan,88,15,103,29,13,42,11,5,16,4,4,8,169
+Tidak diketahui,Kab. Karimun,123,26,149,41,19,60,14,8,22,5,5,10,241
+Tidak diketahui,Kab. Natuna,80,3,83,28,12,40,16,4,20,4,3,7,150
+Tidak diketahui,Kab. Lingga,133,6,139,37,3,40,14,4,18,4,1,5,202
+Tidak diketahui,Kab. Kepulauan Anambas,67,3,70,25,4,29,5,3,8,4,0,4,111
+Tidak diketahui,Kota Batam,147,240,387,61,123,184,26,52,78,8,58,66,715
+Tidak diketahui,Kota Tanjungpinang,54,22,76,17,15,32,8,7,15,5,6,11,134
+Tidak diketahui,Kab. Pandeglang,853,184,1037,121,231,352,22,101,123,12,79,91,1603
+Tidak diketahui,Kab. Lebak,776,237,1013,174,267,441,37,97,134,14,40,54,1642
+Tidak diketahui,Kab. Tangerang,766,533,1299,92,519,611,33,190,223,12,183,195,2328
+Tidak diketahui,Kab. Serang,709,145,854,97,288,385,27,132,159,9,79,88,1486
+Tidak diketahui,Kota Cilegon,151,42,193,15,68,83,7,38,45,4,21,25,346
+Tidak diketahui,Kota Tangerang,339,244,583,35,224,259,17,91,108,9,122,131,1081
+Tidak diketahui,Kota Serang,223,50,273,31,104,135,10,43,53,8,38,46,507
+Tidak diketahui,Kota Tangerang Selatan,159,246,405,23,210,233,14,91,105,7,73,80,823
+Tidak diketahui,Kab. Bogor,1545,912,2457,107,929,1036,49,235,284,11,350,361,4138
+Tidak diketahui,Kab. Sukabumi,1172,378,155,166,454,620,30,161,191,11,148,159,252
+Tidak diketahui,Kab. Cianjur,1234,253,1487,158,302,460,21,132,153,28,156,184,2284
+Tidak diketahui,Kab. Bandung,1314,304,1618,80,466,546,21,203,224,11,129,140,2528
+Tidak diketahui,Kab. Sumedang,584,79,663,79,111,190,17,33,50,7,83,90,993
+Tidak diketahui,Kab. Garut,1491,411,1902,151,526,677,37,208,245,15,166,181,3005
+Tidak diketahui,Kab. Tasikmalaya,1076,231,1307,150,323,473,25,134,159,13,123,136,2075
+Tidak diketahui,Kab. Ciamis,754,157,911,97,136,233,23,52,75,8,61,69,1288
+Tidak diketahui,Kab. Kuningan,647,96,743,91,76,167,22,33,55,9,38,47,1012
+Tidak diketahui,Kab. Majalengka,666,85,751,94,97,191,19,36,55,11,46,57,1054
+Tidak diketahui,Kab. Cirebon,895,199,1094,93,221,314,26,79,105,8,100,108,1621
+Tidak diketahui,Kab. Indramayu,871,170,1041,103,198,301,26,63,89,19,121,140,1571
+Tidak diketahui,Kab. Subang,849,143,992,83,151,234,21,54,75,16,92,108,1409
+Tidak diketahui,Kab. Purwakarta,381,83,464,89,80,169,18,37,55,15,43,58,746
+Tidak diketahui,Kab. Karawang,854,195,1049,95,135,230,34,34,68,18,94,112,1459
+Tidak diketahui,Kab. Bekasi,709,480,1189,99,378,477,44,116,160,15,172,187,2013
+Tidak diketahui,Kab. Bandung Barat,674,233,907,72,238,310,18,116,134,9,93,102,1453
+Tidak diketahui,Kab. Pangandaran,288,55,343,41,44,85,6,15,21,4,26,30,479
+Tidak diketahui,Kota Bandung,276,266,542,59,230,289,29,135,164,16,110,126,1121
+Tidak diketahui,Kota Bogor,212,116,328,21,142,163,12,58,70,5,97,102,663
+Tidak diketahui,Kota Sukabumi,102,45,147,17,53,70,7,26,33,4,28,32,282
+Tidak diketahui,Kota Cirebon,128,53,181,20,37,57,11,22,33,2,28,30,301
+Tidak diketahui,Kota Bekasi,420,426,846,52,306,358,26,117,143,16,135,151,1498
+Tidak diketahui,Kota Depok,263,324,587,27,271,298,15,73,88,4,129,133,1106
+Tidak diketahui,Kota Cimahi,101,45,146,12,40,52,7,18,25,3,21,24,247
+Tidak diketahui,Kota Tasikmalaya,202,82,284,25,102,127,13,51,64,4,48,52,527
+Tidak diketahui,Kota Banjar,85,24,109,13,26,39,4,9,13,4,13,17,178
+Tidak diketahui,Kab. Cilacap,983,234,1217,89,181,270,21,46,67,7,60,67,1621
+Tidak diketahui,Kab. Banyumas,778,218,996,74,137,211,17,39,56,9,72,81,1344
+Tidak diketahui,Kab. Purbalingga,462,186,648,63,53,116,11,15,26,12,22,34,824
+Tidak diketahui,Kab. Banjarnegara,622,210,832,79,59,138,10,19,29,8,17,25,1024
+Tidak diketahui,Kab. Kebumen,783,131,914,67,139,206,18,33,51,8,60,68,1239
+Tidak diketahui,Kab. Purworejo,509,63,572,46,61,107,12,19,31,7,36,43,753
+Tidak diketahui,Kab. Wonosobo,469,109,578,74,68,142,11,17,28,8,22,30,778
+Tidak diketahui,Kab. Magelang,558,359,917,65,134,199,12,43,55,3,43,46,1217
+Tidak diketahui,Kab. Boyolali,576,227,803,67,78,145,19,25,44,12,32,44,1036
+Tidak diketahui,Kab. Klaten,707,157,864,73,62,135,18,16,34,12,43,55,1088
+Tidak diketahui,Kab. Sukoharjo,440,106,546,44,48,92,11,22,33,6,26,32,703
+Tidak diketahui,Kab. Wonogiri,748,79,827,83,59,142,14,13,27,8,38,46,1042
+Tidak diketahui,Kab. Karanganyar,476,93,569,56,48,104,11,10,21,7,27,34,728
+Tidak diketahui,Kab. Sragen,553,100,653,57,64,121,13,20,33,11,46,57,864
+Tidak diketahui,Kab. Grobogan,794,108,902,77,157,234,13,61,74,3,55,58,1268
+Tidak diketahui,Kab. Blora,584,94,678,57,91,148,9,30,39,6,49,55,920
+Tidak diketahui,Kab. Rembang,367,55,422,44,56,100,11,22,33,6,19,25,580
+Tidak diketahui,Kab. Pati,649,239,888,62,163,225,10,80,90,6,41,47,125
+Tidak diketahui,Kab. Kudus,419,163,582,29,86,115,9,44,53,3,26,29,779
+Tidak diketahui,Kab. Jepara,575,214,789,41,165,206,12,75,87,9,41,50,1132
+Tidak diketahui,Kab. Demak,480,146,626,43,174,217,13,98,111,4,55,59,1013
+Tidak diketahui,Kab. Semarang,461,200,661,52,90,142,13,22,35,9,36,45,883
+Tidak diketahui,Kab. Temanggung,412,168,580,44,65,109,7,27,34,6,17,23,746
+Tidak diketahui,Kab. Kendal,554,115,669,52,101,153,15,34,49,7,43,50,921
+Tidak diketahui,Kab. Batang,455,125,580,52,52,104,8,19,27,4,25,29,740
+Tidak diketahui,Kab. Pekalongan,486,152,638,65,52,117,12,21,33,4,29,33,821
+Tidak diketahui,Kab. Pemalang,721,120,841,69,95,164,12,28,40,4,49,53,1098
+Tidak diketahui,Kab. Tegal,678,200,878,54,133,187,13,30,43,7,57,64,1172
+Tidak diketahui,Kab. Brebes,879,236,1115,82,170,252,19,41,60,6,88,94,1521
+Tidak diketahui,Kota Magelang,61,16,77,15,8,23,6,9,15,3,17,20,135
+Tidak diketahui,Kota Surakarta,167,96,263,29,54,83,10,31,41,9,40,49,436
+Tidak diketahui,Kota Salatiga,78,29,107,11,21,32,4,6,10,3,17,20,169
+Tidak diketahui,Kota Semarang,328,264,592,47,175,222,18,85,103,12,77,89,1006
+Tidak diketahui,Kota Pekalongan,71,76,147,17,22,39,7,10,17,4,9,13,216
+Tidak diketahui,Kota Tegal,117,36,153,19,18,37,6,6,12,4,17,21,223
+Tidak diketahui,Kab. Bantul,284,111,395,56,58,114,23,27,50,13,36,49,608
+Tidak diketahui,Kab. Sleman,376,170,546,64,84,148,22,44,66,8,49,57,817
+Tidak diketahui,Kab. Gunung Kidul,431,121,552,70,75,145,12,20,32,13,33,46,775
+Tidak diketahui,Kab. Kulon Progo,277,90,367,42,39,81,14,10,24,8,28,36,508
+Tidak diketahui,Kota Yogyakarta,90,79,169,17,49,66,13,35,48,8,22,30,313
+Tidak diketahui,Kab. Gresik,391,430,821,34,224,258,14,112,126,4,55,59,1264
+Tidak diketahui,Kab. Sidoarjo,470,334,804,50,191,241,14,94,108,5,77,82,1235
+Tidak diketahui,Kab. Mojokerto,389,220,609,43,166,209,13,73,86,8,56,64,968
+Tidak diketahui,Kab. Jombang,516,308,824,66,197,263,22,111,133,8,64,72,1292
+Tidak diketahui,Kab. Bojonegoro,723,274,997,60,158,218,25,80,105,19,43,62,1382
+Tidak diketahui,Kab. Tuban,561,236,797,55,133,188,22,56,78,9,33,42,1105
+Tidak diketahui,Kab. Lamongan,606,563,1169,50,289,339,15,139,154,6,74,80,1742
+Tidak diketahui,Kab. Madiun,406,69,475,49,37,86,14,16,30,8,22,30,621
+Tidak diketahui,Kab. Ngawi,525,138,663,60,60,120,14,26,40,11,29,40,863
+Tidak diketahui,Kab. Magetan,497,79,576,48,43,91,14,22,36,6,28,34,737
+Tidak diketahui,Kab. Ponorogo,577,116,693,62,116,178,18,73,91,8,38,46,1008
+Tidak diketahui,Kab. Pacitan,414,113,527,53,69,122,9,23,32,14,18,32,713
+Tidak diketahui,Kab. Kediri,614,302,916,61,141,202,19,52,71,6,45,51,124
+Tidak diketahui,Kab. Nganjuk,634,135,769,64,91,155,17,46,63,8,47,55,1042
+Tidak diketahui,Kab. Blitar,660,219,879,58,103,161,10,34,44,6,26,32,1116
+Tidak diketahui,Kab. Tulungagung,606,162,768,56,71,127,14,28,42,8,28,36,973
+Tidak diketahui,Kab. Trenggalek,424,136,560,55,51,106,14,17,31,6,29,35,732
+Tidak diketahui,Kab. Malang,1071,406,1477,104,415,519,16,121,137,9,128,137,227
+Tidak diketahui,Kab. Pasuruan,659,360,1019,69,252,321,11,112,123,14,46,60,1523
+Tidak diketahui,Kab. Probolinggo,589,448,1037,77,325,402,19,155,174,11,42,53,1666
+Tidak diketahui,Kab. Lumajang,530,217,747,73,172,245,13,73,86,9,29,38,1116
+Tidak diketahui,Kab. Bondowoso,495,128,623,52,188,240,11,84,95,18,35,53,1011
+Tidak diketahui,Kab. Situbondo,422,117,539,58,134,192,11,78,89,6,37,43,863
+Tidak diketahui,Kab. Jember,916,521,1437,104,458,562,21,143,164,8,170,178,2341
+Tidak diketahui,Kab. Banyuwangi,772,291,1063,85,216,301,21,85,106,9,75,84,1554
+Tidak diketahui,Kab. Pamekasan,416,373,789,39,341,380,11,171,182,7,89,96,1447
+Tidak diketahui,Kab. Sampang,538,577,1115,55,445,500,11,162,173,7,75,82,187
+Tidak diketahui,Kab. Sumenep,584,611,1195,46,453,499,13,218,231,3,63,66,1991
+Tidak diketahui,Kab. Bangkalan,652,198,850,56,311,367,11,118,129,10,54,64,141
+Tidak diketahui,Kota Surabaya,311,520,831,66,307,373,23,138,161,10,93,103,1468
+Tidak diketahui,Kota Malang,197,135,332,29,109,138,13,53,66,13,43,56,592
+Tidak diketahui,Kota Madiun,58,29,87,15,12,27,8,9,17,5,25,30,161
+Tidak diketahui,Kota Kediri,114,41,155,11,32,43,10,16,26,3,20,23,247
+Tidak diketahui,Kota Mojokerto,52,19,71,9,13,22,4,8,12,2,9,11,116
+Tidak diketahui,Kota Blitar,49,22,71,11,14,25,5,9,14,3,14,17,127
+Tidak diketahui,Kota Pasuruan,48,41,89,12,28,40,5,10,15,2,12,14,158
+Tidak diketahui,Kota Probolinggo,95,36,131,11,35,46,6,18,24,4,16,20,221
+Tidak diketahui,Kota Batu,65,25,90,9,22,31,4,11,15,3,10,13,149
+Tidak diketahui,Kab. Pandeglang,853,184,1037,121,231,352,22,101,123,12,79,91,1603
+Tidak diketahui,Kab. Lebak,776,237,1013,174,267,441,37,97,134,14,40,54,1642
+Tidak diketahui,Kab. Tangerang,766,533,1299,92,519,611,33,190,223,12,183,195,2328
+Tidak diketahui,Kab. Serang,709,145,854,97,288,385,27,132,159,9,79,88,1486
+Tidak diketahui,Kota Cilegon,151,42,193,15,68,83,7,38,45,4,21,25,346
+Tidak diketahui,Kota Tangerang,339,244,583,35,224,259,17,91,108,9,122,131,1081
+Tidak diketahui,Kota Serang,223,50,273,31,104,135,10,43,53,8,38,46,507
+Tidak diketahui,Kota Tangerang Selatan,159,246,405,23,210,233,14,91,105,7,73,80,823
+Tidak diketahui,Kabupaten Buleleng,481,26,507,57,31,88,19,20,39,12,17,29,663
+Tidak diketahui,Kabupaten Jembrana,187,16,203,22,16,38,8,12,20,5,5,10,271
+Tidak diketahui,Kabupaten Tabanan,312,10,322,38,7,45,9,9,18,3,11,14,399
+Tidak diketahui,Kabupaten Badung,249,42,291,27,41,68,8,13,21,2,23,25,405
+Tidak diketahui,Kabupaten Gianyar,278,13,291,23,22,45,7,5,12,8,22,30,378
+Tidak diketahui,Kabupaten Klungkung,137,1,138,22,2,24,8,4,12,2,6,8,182
+Tidak diketahui,Kabupaten Bangli,164,1,165,26,3,29,5,1,6,9,4,13,213
+Tidak diketahui,Kabupaten Karangasem,357,5,362,45,5,50,10,10,20,5,8,13,445
+Tidak diketahui,Kota Denpasar,168,76,244,12,62,74,8,28,36,5,28,33,387
+Tidak diketahui,Kab. Kupang,289,78,367,140,26,166,47,12,59,14,9,23,615
+Tidak diketahui,Kab. Timor Tengah Selatan,364,144,508,105,49,154,22,17,39,11,14,25,726
+Tidak diketahui,Kab. Timor Tengah Utara,152,114,266,78,15,93,23,7,30,10,10,20,409
+Tidak diketahui,Kab. Belu,92,55,147,34,14,48,12,12,24,6,3,9,228
+Tidak diketahui,Kab. Alor,197,106,303,101,19,120,30,9,39,14,1,15,477
+Tidak diketahui,Kab. Flores Timur,155,143,298,44,31,75,14,16,30,6,7,13,416
+Tidak diketahui,Kab. Sikka,191,151,342,39,48,87,10,14,24,4,12,16,469
+Tidak diketahui,Kab. Ende,180,165,345,60,37,97,10,17,27,7,8,15,484
+Tidak diketahui,Kab. Ngada,113,68,181,48,17,65,9,5,14,4,8,12,272
+Tidak diketahui,Kab. Manggarai,162,87,249,58,15,73,15,13,28,1,13,14,364
+Tidak diketahui,Kab. Sumba Timur,194,69,263,68,9,77,17,5,22,8,1,9,371
+Tidak diketahui,Kab. Sumba Barat,63,27,90,36,5,41,5,5,10,7,0,7,148
+Tidak diketahui,Kab. Lembata,102,76,178,40,18,58,10,7,17,5,5,10,263
+Tidak diketahui,Kab. Rote Ndao,121,25,146,40,5,45,8,5,13,3,2,5,209
+Tidak diketahui,Kab. Manggarai Barat,173,116,289,77,27,104,21,11,32,6,3,9,434
+Tidak diketahui,Kab. Nagakeo,101,79,180,41,20,61,10,7,17,3,3,6,264
+Tidak diketahui,Kab. Sumba Tengah,49,32,81,29,5,34,3,2,5,3,0,3,123
+Tidak diketahui,Kab. Sumba Barat Daya,139,115,254,55,46,101,7,19,26,10,25,35,416
+Tidak diketahui,Kab. Manggarai Timur,226,117,343,126,18,144,43,8,51,9,2,11,549
+Tidak diketahui,Kab. Sabu Raijua,49,28,77,24,0,24,6,2,8,2,0,2,111
+Tidak diketahui,Kab. Malaka,121,87,208,38,22,60,15,16,31,4,2,6,305
+Tidak diketahui,Kota Kupang,84,60,144,21,35,56,14,26,40,8,16,24,264
+Tidak diketahui,Kab. Sambas,397,65,462,108,49,157,31,18,49,17,7,24,692
+Tidak diketahui,Kab. Mempawah,181,57,238,39,52,91,9,25,34,4,6,10,373
+Tidak diketahui,Kab. Sanggau,468,15,483,96,38,134,19,13,32,5,13,18,667
+Tidak diketahui,Kab. Sintang,421,22,443,108,30,138,27,17,44,9,9,18,643
+Tidak diketahui,Kab. Kapuas Hulu,393,32,425,98,22,120,28,9,37,4,1,5,587
+Tidak diketahui,Kab. Ketapang,491,60,551,108,51,159,25,20,45,15,7,22,777
+Tidak diketahui,Kab. Bengkayang,264,18,282,69,19,88,26,8,34,8,2,10,414
+Tidak diketahui,Kab. Landak,440,36,476,70,48,118,24,29,53,4,5,9,656
+Tidak diketahui,Kab. Sekadau,234,7,241,59,11,70,17,6,23,4,2,6,340
+Tidak diketahui,Kab. Melawi,249,16,265,97,21,118,12,13,25,7,5,12,420
+Tidak diketahui,Kab. Kayong Utara,103,10,113,39,7,46,13,4,17,4,1,5,181
+Tidak diketahui,Kab. Kubu Raya,327,219,546,87,156,243,25,78,103,10,28,38,930
+Tidak diketahui,Kota Pontianak,,79,194,30,80,110,12,56,68,10,21,31,403
+Tidak diketahui,Kota Singkawang,76,28,104,20,27,47,11,12,23,5,7,12,186
+Tidak diketahui,Kab. Banjar,379,93,472,75,56,131,16,31,47,6,4,10,660
+Tidak diketahui,Kab. Tanah Laut,236,23,259,54,18,72,15,13,28,6,4,10,369
+Tidak diketahui,Kab. Barito Kuala,279,48,327,61,37,98,21,18,39,3,0,3,467
+Tidak diketahui,Kab. Tapin,183,7,190,28,12,40,9,5,14,3,0,3,247
+Tidak diketahui,Kab. Hulu Sungai Selatan,261,24,285,44,17,61,10,10,20,4,0,4,370
+Tidak diketahui,Kab. Hulu Sungai Tengah,285,23,308,46,12,58,14,9,23,2,7,9,398
+Tidak diketahui,Kab. Hulu Sungai Utara,205,61,266,34,29,63,11,14,25,4,3,7,361
+Tidak diketahui,Kab. Tabalong,226,28,254,67,17,84,15,9,24,8,2,10,372
+Tidak diketahui,Kab. Kotabaru,228,37,265,55,21,76,21,9,30,5,2,7,378
+Tidak diketahui,Kab. Balangan,179,30,209,28,14,42,13,6,19,3,0,3,273
+Tidak diketahui,Kab. Tanah Bumbu,176,30,206,55,29,84,11,10,21,7,11,18,329
+Tidak diketahui,Kota Banjarmasin,213,103,316,39,59,98,16,23,39,5,17,22,475
+Tidak diketahui,Kota Banjarbaru,67,24,91,14,21,35,5,17,22,5,12,17,165
+Tidak diketahui,Kab. Kapuas,383,130,513,110,53,163,18,27,45,13,5,18,739
+Tidak diketahui,Kab. Barito Selatan,170,25,195,54,25,79,17,19,36,2,3,5,315
+Tidak diketahui,Kab. Barito Utara,169,19,188,36,9,45,14,4,18,8,0,8,259
+Tidak diketahui,Kab. Kotawaringin Timur,313,85,398,80,49,129,14,14,28,15,9,24,579
+Tidak diketahui,Kab. Kotawaringin Barat,169,37,206,46,28,74,10,9,19,10,7,17,316
+Tidak diketahui,Kab. Katingan,205,10,215,73,16,89,15,12,27,6,3,9,340
+Tidak diketahui,Kab. Seruyan,130,42,172,50,22,72,10,6,16,3,3,6,266
+Tidak diketahui,Kab. Sukamara,49,3,52,15,4,19,6,2,8,3,0,3,82
+Tidak diketahui,Kab. Lamandau,107,7,114,42,2,44,12,0,12,11,0,11,181
+Tidak diketahui,Kab. Gunung Mas,174,6,180,55,6,61,13,2,15,3,1,4,260
+Tidak diketahui,Kab. Pulang Pisau,179,26,205,41,15,56,20,5,25,6,2,8,294
+Tidak diketahui,Kab. Murung Raya,171,10,181,63,8,71,24,2,26,2,0,2,280
+Tidak diketahui,Kab. Barito Timur,147,9,156,29,6,35,12,2,14,4,2,6,211
+Tidak diketahui,Kota Palangka Raya,104,38,142,27,34,61,11,23,34,8,8,16,253
+Tidak diketahui,Kab. Malinau,102,4,106,34,3,37,16,3,19,3,1,4,166
+Tidak diketahui,Kab. Bulungan,133,12,145,53,12,65,10,8,18,6,2,8,236
+Tidak diketahui,Kab. Tana Tidung,27,2,29,8,1,9,3,0,3,1,0,1,42
+Tidak diketahui,Kab. Nunukan,124,23,147,38,15,53,10,10,20,5,3,8,228
+Tidak diketahui,Kota Tarakan,47,23,70,13,18,31,4,11,15,3,5,8,124
+Tidak diketahui,Kab. Boalemo,136,11,147,56,8,64,10,4,14,10,0,10,235
+Tidak diketahui,Kab. Gorontalo,291,42,333,124,26,150,19,13,32,7,5,12,527
+Tidak diketahui,Kab. Pohuwato,126,15,141,43,13,56,8,8,16,8,4,12,225
+Tidak diketahui,Kab. Bone Bolango,130,12,142,39,12,51,9,5,14,6,1,7,214
+Tidak diketahui,Kab. Gorontalo Utara,135,12,147,45,9,54,10,4,14,4,2,6,221
+Tidak diketahui,Kota Gorontalo,108,21,129,17,14,31,6,9,15,5,4,9,184
+Tidak diketahui,Kab. Mamuju,310,23,333,57,48,105,18,26,44,9,15,24,506
+Tidak diketahui,Kab. Pasangkayu,126,22,148,42,20,62,13,9,22,9,3,12,244
+Tidak diketahui,Kab. Polewali Mandar,330,84,414,81,67,148,15,31,46,14,15,29,637
+Tidak diketahui,Kab. Mamasa,253,23,276,69,33,102,17,7,24,14,27,41,443
+Tidak diketahui,Kab. Majene,181,18,199,37,23,60,7,14,21,9,7,16,296
+Tidak diketahui,Kab. Mamuju Tengah,116,12,128,31,26,57,10,14,24,4,11,15,224
+Tidak diketahui,Kab. Maros,249,41,290,45,74,119,14,44,58,2,17,19,486
+Tidak diketahui,Kab. Pangkajene dan Kepulauan,300,12,312,79,30,109,26,23,49,9,5,14,484
+Tidak diketahui,Kab. Gowa,401,96,497,84,93,177,23,62,85,5,14,19,778
+Tidak diketahui,Kab. Takalar,236,15,251,38,31,69,13,26,39,7,3,10,369
+Tidak diketahui,Kab. Jeneponto,288,39,327,69,59,128,15,41,56,10,11,21,532
+Tidak diketahui,Kab. Barru,198,27,225,36,17,53,8,13,21,5,1,6,305
+Tidak diketahui,Kab. Bone,671,90,761,118,99,217,34,46,80,10,13,23,1081
+Tidak diketahui,Kab. Wajo,388,47,435,71,35,106,16,15,31,9,6,15,587
+Tidak diketahui,Kab. Soppeng,251,21,272,32,39,71,10,9,19,5,6,11,373
+Tidak diketahui,Kab. Bantaeng,148,22,170,26,45,71,7,21,28,5,6,11,280
+Tidak diketahui,Kab. Bulukumba,355,33,388,69,43,112,21,19,40,11,7,18,558
+Tidak diketahui,Kab. Sinjai,243,30,273,44,37,81,16,26,42,4,7,11,407
+Tidak diketahui,Kab. Kepulauan Selayar,144,12,156,50,12,62,10,2,12,8,1,9,239
+Tidak diketahui,Kab. Pinrang,316,36,352,53,26,79,12,11,23,10,6,16,470
+Tidak diketahui,Kab. Sidenreng Rappang,230,18,248,45,29,74,12,19,31,8,4,12,365
+Tidak diketahui,Kab. Enrekang,219,22,241,43,24,67,13,14,27,5,4,9,344
+Tidak diketahui,Kab. Luwu,266,53,319,81,62,143,20,25,45,13,11,24,531
+Tidak diketahui,Kab. Tana Toraja,214,14,228,65,22,87,14,7,21,4,25,29,365
+Tidak diketahui,Kab. Luwu Utara,246,28,274,72,40,112,20,17,37,8,6,14,437
+Tidak diketahui,Kab. Luwu Timur,155,30,185,32,33,65,14,15,29,2,2,4,283
+Tidak diketahui,Kab. Toraja Utara,184,10,194,65,12,77,9,7,16,5,18,23,310
+Tidak diketahui,Kota Makassar,365,205,570,47,212,259,26,133,159,13,75,88,1076
+Tidak diketahui,Kota Parepare,80,19,99,14,19,33,7,11,18,3,10,13,163
+Tidak diketahui,Kota Palopo,65,15,80,15,15,30,7,6,13,7,11,18,141
+Tidak diketahui,Kab. Banggai Kepulauan,155,11,166,52,20,72,16,5,21,10,6,16,275
+Tidak diketahui,Kab. Donggala,333,39,372,91,30,121,17,21,38,11,2,13,544
+Tidak diketahui,Kab. Poso,199,44,243,68,14,82,17,8,25,10,7,17,367
+Tidak diketahui,Kab. Banggai,340,47,387,88,59,147,29,29,58,11,14,25,617
+Tidak diketahui,Kab. Buol,166,17,183,63,15,78,11,5,16,6,3,9,286
+Tidak diketahui,Kab. Tolitoli,221,24,245,62,33,95,10,21,31,8,7,15,386
+Tidak diketahui,Kab. Morowali,132,16,148,34,14,48,9,8,17,7,2,9,222
+Tidak diketahui,Kab. Parigi Moutong,399,61,460,91,61,152,22,28,50,10,10,20,682
+Tidak diketahui,Kab. Tojo Una-Una,182,11,193,46,20,66,11,8,19,6,1,7,285
+Tidak diketahui,Kab. Sigi,209,71,280,57,38,95,14,21,35,5,7,12,422
+Tidak diketahui,Kab. Banggai Laut,79,6,85,32,16,48,7,6,13,4,4,8,154
+Tidak diketahui,Kab. Morowali Utara,133,20,153,42,8,50,9,5,14,6,2,8,225
+Tidak diketahui,Kota Palu,133,53,186,28,43,71,14,23,37,8,19,27,321
+Tidak diketahui,Kab. Konawe,272,21,293,66,22,88,24,18,42,6,5,11,434
+Tidak diketahui,Kab. Muna,211,20,231,68,24,92,23,22,45,7,12,19,387
+Tidak diketahui,Kab. Buton,122,10,132,54,10,64,19,11,30,7,3,10,236
+Tidak diketahui,Kab. Kolaka,178,20,198,47,33,80,12,16,28,11,3,14,320
+Tidak diketahui,Kab. Konawe Selatan,315,21,336,83,26,109,26,20,46,10,0,10,501
+Tidak diketahui,Kab. Wakatobi,111,6,117,44,10,54,18,7,25,2,3,5,201
+Tidak diketahui,Kab. Bombana,151,34,185,52,26,78,18,14,32,7,1,8,303
+Tidak diketahui,Kab. Kolaka Utara,111,13,124,35,15,50,7,11,18,5,1,6,198
+Tidak diketahui,Kab. Konawe Utara,103,0,103,36,3,39,11,2,13,3,3,6,161
+Tidak diketahui,Kab. Buton Utara,76,1,77,35,6,41,11,5,16,6,1,7,141
+Tidak diketahui,Kab. Kolaka Timur,140,9,149,42,7,49,14,1,15,7,2,9,222
+Tidak diketahui,Kab. Konawe Kepulauan,49,1,50,19,0,19,5,0,5,3,1,4,78
+Tidak diketahui,Kab. Muna Barat,95,1,96,37,7,44,11,4,15,4,3,7,162
+Tidak diketahui,Kab. Buton Selatan,69,4,73,33,5,38,15,2,17,3,2,5,133
+Tidak diketahui,Kab. Buton Tengah,92,7,99,36,12,48,18,3,21,6,3,9,177
+Tidak diketahui,Kota Kendari,117,30,147,24,29,53,13,21,34,6,14,20,254
+Tidak diketahui,Kota Baubau,67,12,79,20,14,34,7,10,17,6,2,8,138
+Tidak diketahui,Kab. Bolaang Mongondow,206,24,230,50,29,79,8,12,20,7,10,17,346
+Tidak diketahui,Kab. Minahasa,186,164,350,65,42,107,18,14,32,10,9,19,508
+Tidak diketahui,Kab. Kepulauan Sangihe,127,93,220,55,12,67,14,9,23,7,2,9,319
+Tidak diketahui,Kab. Kepulauan Talaud,61,55,116,40,3,43,18,1,19,7,3,10,188
+Tidak diketahui,Kab. Minahasa Selatan,123,115,238,63,24,87,14,6,20,14,3,17,362
+Tidak diketahui,Kab. Minahasa Utara,108,90,198,39,35,74,6,18,24,5,11,16,312
+Tidak diketahui,Kab. Bolaang Mongondow Utara,89,13,102,21,8,29,4,4,8,2,2,4,143
+Tidak diketahui,Kab. Kepulauan Sitaro,42,61,103,23,3,26,5,0,5,6,0,6,140
+Tidak diketahui,Kab. Minahasa Tenggara,60,38,98,34,9,43,8,5,13,4,2,6,160
+Tidak diketahui,Kab. Bolaang Mongondow Timur,53,5,58,24,3,27,3,2,5,8,2,10,100
+Tidak diketahui,Kab. Bolaang Mongondow Selatan,68,10,78,21,5,26,3,3,6,2,3,5,115
+Tidak diketahui,Kota Manado,135,140,275,15,87,102,10,44,54,9,27,36,467
+Tidak diketahui,Kota Bitung,48,65,113,19,20,39,4,12,16,6,9,15,183
+Tidak diketahui,Kota Tomohon,21,45,66,4,20,24,2,9,11,1,6,7,108
+Tidak diketahui,Kota Kotamobagu,61,13,74,11,7,18,5,4,9,2,8,10,111
+Tidak diketahui,Kab. Maluku Tengah,355,73,428,114,61,175,67,32,99,11,3,14,716
+Tidak diketahui,Kab. Maluku Tenggara,55,100,155,35,22,57,12,8,20,3,5,8,240
+Tidak diketahui,Kab. Buru,115,39,154,47,16,63,13,7,20,8,1,9,246
+Tidak diketahui,Kab. Maluku Tenggara Barat,40,81,121,46,18,64,15,4,19,6,1,7,211
+Tidak diketahui,Kab. Seram Bagian Barat,153,73,226,67,39,106,26,23,49,11,2,13,394
+Tidak diketahui,Kab. Seram Bagian Timur,125,39,164,50,23,73,17,13,30,7,1,8,275
+Tidak diketahui,Kab. Kepulauan Aru,71,75,146,29,16,45,8,5,13,2,4,6,210
+Tidak diketahui,Kab. Maluku Barat Daya,92,63,155,49,9,58,20,1,21,8,1,9,243
+Tidak diketahui,Kab. Buru Selatan,71,34,105,38,12,50,14,3,17,11,0,11,183
+Tidak diketahui,Kota Ambon,148,57,205,25,33,58,17,24,41,10,9,19,323
+Tidak diketahui,Kota Tual,41,21,62,17,10,27,7,7,14,3,3,6,109
+Tidak diketahui,Kab. Pulau Taliabu,81,10,91,32,6,38,12,4,16,6,0,6,151
+Tidak diketahui,Kab. Halmahera Tengah,65,4,69,28,7,35,12,3,15,9,1,10,129
+Tidak diketahui,Kab. Halmahera Barat,130,53,183,41,36,77,10,16,26,7,6,13,299
+Tidak diketahui,Kab. Halmahera Utara,146,80,226,38,45,83,14,19,33,6,25,31,373
+Tidak diketahui,Kab. Halmahera Selatan,267,48,315,74,79,153,38,29,67,6,16,22,557
+Tidak diketahui,Kab. Halmahera Timur,98,7,105,39,10,49,13,8,21,2,5,7,182
+Tidak diketahui,Kab. Kepulauan Sula,96,17,113,48,22,70,13,13,26,14,1,15,224
+Tidak diketahui,Kab. Kepulauan Morotai,52,45,97,22,20,42,6,15,21,3,6,9,169
+Tidak diketahui,Kota Ternate,86,37,123,16,25,41,12,14,26,5,4,9,199
+Tidak diketahui,Kota Tidore Kepulauan,105,8,113,32,18,50,15,17,32,6,1,7,202
+Tidak diketahui,Kab. Jayapura,69,69,138,29,16,45,10,13,23,6,1,7,213
+Tidak diketahui,Kab. Biak Numfor,79,87,166,43,11,54,12,7,19,3,4,7,246
+Tidak diketahui,Kab. Kepulauan Yapen,62,61,123,23,7,30,4,6,10,3,2,5,168
+Tidak diketahui,Kab. Merauke,108,99,207,40,20,60,12,11,23,11,4,15,305
+Tidak diketahui,Kab. Jayawijaya,69,53,122,18,18,36,5,8,13,1,5,6,177
+Tidak diketahui,Kab. Nabire,83,40,123,30,20,50,7,14,21,5,12,17,211
+Tidak diketahui,Kab. Paniai,31,53,84,10,6,16,4,2,6,1,2,3,109
+Tidak diketahui,Kab. Puncak Jaya,21,2,23,7,0,7,2,0,2,2,0,2,34
+Tidak diketahui,Kab. Mimika,58,77,135,29,31,60,6,11,17,5,19,24,236
+Tidak diketahui,Kab. Boven Digoel,54,48,102,12,5,17,2,2,4,4,0,4,127
+Tidak diketahui,Kab. Mappi,84,67,151,15,6,21,5,1,6,5,0,5,183
+Tidak diketahui,Kab. Asmat,106,26,132,15,4,19,2,2,4,1,0,1,156
+Tidak diketahui,Kab. Yahukimo,135,28,163,29,8,37,7,1,8,2,1,3,211
+Tidak diketahui,Kab. Pegunungan Bintang,53,10,63,15,3,18,2,1,3,1,0,1,85
+Tidak diketahui,Kab. Tolikara,65,8,73,17,3,20,4,1,5,1,0,1,99
+Tidak diketahui,Kab. Sarmi,40,25,65,14,5,19,3,1,4,5,0,5,93
+Tidak diketahui,Kab. Keerom,54,25,79,13,6,19,5,5,10,2,1,3,111
+Tidak diketahui,Kab. Waropen,37,17,54,13,5,18,2,3,5,3,0,3,80
+Tidak diketahui,Kab. Supiori,21,19,40,10,2,12,7,0,7,1,0,1,60
+Tidak diketahui,Kab. Mamberamo Raya,61,12,73,12,3,15,4,0,4,0,0,0,92
+Tidak diketahui,Kab. Nduga,28,1,29,7,0,7,2,0,2,1,0,1,39
+Tidak diketahui,Kab. Lanny Jaya,55,14,69,23,2,25,7,1,8,1,0,1,103
+Tidak diketahui,Kab. Mamberamo Tengah,29,6,35,7,1,8,4,1,5,0,0,0,48
+Tidak diketahui,Kab. Yalimo,43,8,51,17,3,20,5,0,5,1,1,2,78
+Tidak diketahui,Kab. Puncak,27,5,32,7,0,7,3,1,4,1,0,1,44
+Tidak diketahui,Kab. Dogiyai,21,43,64,6,7,13,2,0,2,1,1,2,81
+Tidak diketahui,Kab. Deiyai,19,36,55,4,7,11,2,1,3,1,1,2,71
+Tidak diketahui,Kab. Intan Jaya,27,9,36,5,2,7,1,0,1,1,0,1,45
+Tidak diketahui,Kota Jayapura,55,48,103,14,31,45,7,23,30,11,4,15,193
+Tidak diketahui,Kab. Fak-Fak,76,47,123,14,10,24,5,4,9,2,1,3,159
+Tidak diketahui,Kab. Kaimana,54,33,87,13,5,18,2,3,5,2,1,3,113
+Tidak diketahui,Kab. Teluk Wondama,35,19,54,12,4,16,3,0,3,1,1,2,75
+Tidak diketahui,Kab. Teluk Bintuni,48,34,82,26,8,34,10,6,16,1,0,1,133
+Tidak diketahui,Kab. Manokwari,87,40,127,28,11,39,7,10,17,7,1,8,191
+Tidak diketahui,Kab. Sorong Selatan,30,57,87,15,8,23,3,1,4,2,2,4,118
+Tidak diketahui,Kab. Sorong,96,46,142,33,19,52,14,11,25,2,5,7,226
+Tidak diketahui,Kab. Raja Ampat,68,41,109,29,10,39,14,2,16,3,2,5,169
+Tidak diketahui,Kab. Tambrauw,33,23,56,12,3,15,4,1,5,3,1,4,80
+Tidak diketahui,Kab. Maybrat,17,42,59,11,2,13,4,0,4,1,0,1,77
+Tidak diketahui,Kab. Pegunungan Arfak,47,13,60,13,1,14,7,0,7,2,0,2,83
+Tidak diketahui,Kab. Manokwari Selatan,22,7,29,5,3,8,4,1,5,0,1,1,43
+Tidak diketahui,Kota Sorong,40,43,83,10,29,39,5,17,22,6,7,13,157
